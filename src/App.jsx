@@ -30,7 +30,7 @@ function App() {
         ) : (
           <>
             <Auth />
-            <div className="mb-8 p-4 bg-white rounded-md shadow-md">
+            <div className="mb-8 p-4 bg-amber-50 rounded-md shadow-md mt-10">
           <p className="text-lg leading-relaxed text-gray-700">
             <span className=" text-red-600">info :</span>  NoteCrypt is a secure digital note-taking application enabling users to create, store, edit, and delete their thoughts with end-to-end encryption ensuring enhanced privacy. The app prioritizes recency, displaying the latest notes prominently at the top of the user's list.
           </p>
